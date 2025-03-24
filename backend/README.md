@@ -14,8 +14,12 @@ Este projeto é um backend desenvolvido com **Node.js** e **Express**, utilizand
 ---
 
 ## ⚙️ Como rodar o projeto
+```sh
+npm run server
 
+```
 ### 🔹 1. Clonar o repositório  
 ```sh
-git clone https://github.com/seu-usuario/seu-repositorio.git
-cd seu-repositorio
+git clone https://github.com/leonarddepaula/react-gram
+cd backend
+```
